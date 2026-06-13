@@ -1,0 +1,10 @@
+title       = "cpa"
+baseURL     = "https://cpalgorithms-cli.tamnd.com/"
+description = "Browse CP-Algorithms competitive programming articles"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/cpalgorithms-cli"
